@@ -16,4 +16,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 .brand strong,.header-contact{white-space:nowrap}
 @media(min-width:601px) and (max-width:800px){.photo-halo{right:14px}}
-@media(max-width:360px){.header-contact{font-size:0;gap:0;width:36px;height:36px;padding:8px}.header-contact .icon{width:18px;height:18px}.address-card{padding:18px;gap:10px}.address-main h3{font-size:37px}.address-main .underlink{font-size:10px}.hours-note{display:block}.hours-note a{margin-top:9px}.hero h1{font-size:56px}}
+@media(max-width:360px){.header-contact{font-size:0;gap:0;width:36px;height:36px;padding:8px}.header-contact .icon{width:18px;height:18px}.address-card{padding:18px;gap:10px}.address-main h3{font-size:37px}.address-main .underlink{font-size:10px}.hours-note{display:block}.hours-note a{margin-top:9px}.hero h1{font-size:48px}}
