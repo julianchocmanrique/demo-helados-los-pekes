@@ -49,7 +49,7 @@
       const updateInquiry = () => {
         const selected = labels[craving.value] || labels.helados;
         const extra = detail ? detail.value.trim().slice(0, 300) : '';
-        const message = `Hola, Helados Los Pekes. Quisiera consultar las opciones, los precios y la disponibilidad de ${selected.toLowerCase()}.${extra ? `\n\n${extra}` : ''}`;
+        const message = `Te contactamos desde la página de Helados Los Pekes. Queremos consultar las opciones, los precios y la disponibilidad de ${selected.toLowerCase()}.${extra ? `\n\n${extra}` : ''}`;
         inquiryPreview.textContent = message;
         inquiryLink.href = `https://wa.me/573212822922?text=${encodeURIComponent(message)}`;
       };
