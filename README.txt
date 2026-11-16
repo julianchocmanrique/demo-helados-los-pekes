@@ -4,6 +4,8 @@ Sitio estático HTML, CSS y JavaScript. GitHub Pages publica main desde la raíz
 La consulta se prepara localmente y el visitante decide enviarla por WhatsApp.
 No almacena datos, procesa pagos ni confirma pedidos.
 Datos y fotografías de la ficha de Google Maps facilitada por el usuario.
-No hay horarios, precios ni menú completo confirmados.
+Dirección, WhatsApp y horario según el perfil de Instagram @lospekesheladeria, seleccionado por el usuario. No hay precios ni menú completo confirmados.
 Créditos de fotografías en photo-sources.json y el diálogo de privacidad.
 Fuentes Bricolage Grotesque y DM Sans bajo licencia OFL, incluida en assets.
+
+Galería social: instagram-gallery.json contiene las fotos accesibles del perfil público y sus publicaciones fuente. Las promociones se muestran con fecha; no se afirma su vigencia.
